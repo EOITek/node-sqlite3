@@ -38,15 +38,15 @@
   },
   "dependencies": {
     "nan": "~2.8.0",
-    "node-pre-gyp": "~0.6.38"
+    "node-pre-gyp": "~0.6.39"
   },
   "bundledDependencies": [
     "node-pre-gyp"
   ],
   "devDependencies": {
     "aws-sdk": "2.x",
-    "eslint": "3.5.0",
-    "mocha": "3.x"
+    "eslint": "4.15.0",
+    "mocha": "4.x"
   },
   "scripts": {
     "prepublishOnly": "npm ls",
